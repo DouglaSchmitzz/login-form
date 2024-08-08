@@ -22,7 +22,7 @@
 
 
 - Contribution are always welcome and recommended! Here is how:
-- Clone https://github.com/YOURLOGIN/login-form.git
+- Clone https://github.com/DouglaSchmitzz/login-form.git
 - Make your changes
 - <a href= "https://github.com/DouglaSchmitzz/login-form/pulls">Create a pull request<a/>
 
