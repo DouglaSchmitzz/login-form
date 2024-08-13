@@ -1,7 +1,7 @@
 <h1 align="center">Login Form<h1/>
 
 <div align="center">
-  <img height="400" width= "1000" src="https://github.com/user-attachments/assets/37506537-7b14-4bb4-8672-641bb543cf7f"  />
+  <img height="400" width= "850" src="https://github.com/user-attachments/assets/37506537-7b14-4bb4-8672-641bb543cf7f"  />
 </div>
 
 
